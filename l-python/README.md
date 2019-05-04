@@ -5,4 +5,4 @@
 2. ~~ex_002.py~~ - _More comment printing_
 3. [ex_003.py](ex_003.py) - _Numbers and Math_
 4. [ex_004.py](ex_004.py) - _Variables and Names_
-5. ex_005.py
+5. [ex_005.py](ex_005.py) - _More Variables and Printing_
