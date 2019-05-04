@@ -1,11 +1,12 @@
-<h3>How to control GitHub</h3>
+#How to control GitHub
 
-<p>Basically you gotta check whats left to upload by this commands:</p>
-<ol>
-<li><b>git status</b>
-  check if something is "modified"</li>
-<li><b>git add <i>FILENAME</i></b></li>
-<li><b>git commit -m "<i>comment about the upload</i>"</b></li>
-<li><b>git push</b>
-  to upload content with credentials.</li>
-</ol>
+Basically you gotta check whats left to upload by this commands:
+
+- git status
+  - check if something is "modified".
+- git add *FILENAME.ext*
+- git commit -m "*comment about the upload*"
+- git push
+  - to upload content with credentials.
+
+Review the GitHub syntax format [link](https://help.github.com/en/articles/basic-writing-and-formatting-syntax)
