@@ -20,11 +20,11 @@ Basically you gotta check whats left to upload by this commands:
   - to upload content with credentials.
 
 ## Untracked
-- **git add** *<file>*
+- **git add** *FILENAME.ext*
   - to include file for being tracked.
 
 ## Untrack a file
-- **git checkout --** *<file>*
+- **git checkout --** *FILENAME.ext*
   - to exclude a file from being tracked.
 
 Review the GitHub syntax format [link](https://help.github.com/en/articles/basic-writing-and-formatting-syntax)
