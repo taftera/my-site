@@ -21,7 +21,10 @@ Basically you gotta check whats left to upload by this commands:
 
 ## Untracked
 - **git add** *<file>*
-  - to include it
+  - to include file for being tracked.
 
+## Untrack a file
+- **git checkout --** *<file>*
+  - to exclude a file from being tracked.
 
 Review the GitHub syntax format [link](https://help.github.com/en/articles/basic-writing-and-formatting-syntax)
