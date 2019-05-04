@@ -6,3 +6,8 @@
 3. [ex_003.py](ex_003.py) - _Numbers and Math_
 4. [ex_004.py](ex_004.py) - _Variables and Names_
 5. [ex_005.py](ex_005.py) - _More Variables and Printing_
+6.
+7.
+8.
+9.
+10.
