@@ -1,4 +1,4 @@
-## Python learning with "[Learn Python the hard way](https://drive.google.com/open?id=0B3M8S4hNELduMG9pLU9UcmdwVGM)"
+## Learn Python The Hard Way [link](https://drive.google.com/open?id=0B3M8S4hNELduMG9pLU9UcmdwVGM)
 
 ### Exercises:
 1. [ex_001.py](ex_files/ex_001.py) - _Basics of printing_
