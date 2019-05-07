@@ -28,3 +28,6 @@ Basically you gotta check whats left to upload by this commands:
   - to exclude a file from being tracked.
 
 Review the GitHub syntax format [link](https://help.github.com/en/articles/basic-writing-and-formatting-syntax)
+
+## Git - Brackets Config
+[Practical Series . com](http://practicalseries.com/1002-vcs/index.html#js--000000)
