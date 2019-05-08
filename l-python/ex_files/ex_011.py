@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Asking Questions
+=======
+#Asking Questions
+>>>>>>> office
 
 print "How old are you?",
 age = raw_input()
