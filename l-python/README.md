@@ -16,7 +16,7 @@
 13. [ex_013.py](ex_files/ex_013.py) - _Parameetrs, Unpacking, Variables - *from sys import argv*_
 14. [ex_014.py](ex_files/ex_014.py) - _Prompting and Passing_
 15. [ex_015.py](ex_files/ex_015.py) - _Reading Files_
-16. [ex_016.py](ex_files/ex_016.py) - __
+16. [ex_016.py](ex_files/ex_016.py) - _Reading and Writing Files_
 17. [ex_017.py](ex_files/ex_017.py) - __
 18. [ex_018.py](ex_files/ex_018.py) - __
 19. [ex_019.py](ex_files/ex_019.py) - __
