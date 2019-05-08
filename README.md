@@ -19,6 +19,9 @@ Basically you gotta check whats left to upload by this commands:
 - **git push**
   - to upload content with credentials.
 
+## Upload download
+- **git pull**
+
 ## Untracked
 - **git add** *FILENAME.ext*
   - to include file for being tracked.
