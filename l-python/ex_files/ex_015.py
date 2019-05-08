@@ -28,3 +28,9 @@ txt_again.close()
 # Study Drills
 # Couldn't find this...
 # Run pydoc file and scroll down until you see the read() command (method/function). See all the other ones you can use? Skip the ones that have __ (two underscores) in front because those are junk. Try some of the other commands.
+#
+# close — Closes the file. Like File->Save.. in your editor.
+# read — Reads the contents of the file. You can assign the result to a variable.
+# readline — Reads just one line of a text file.
+# truncate — Empties the file. Watch out if you care about the file.
+# write(stuff) — Writes stuff to the file.
