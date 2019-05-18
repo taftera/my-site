@@ -13,3 +13,11 @@
 10. [ex_010.py](ex_files/ex_010.py) - _What was that ? - the use of backslash in formatting of "Escape Sequences"_
 11. [ex_011.py](ex_files/ex_011.py) - _Asking Questions_
 12. [ex_012.py](ex_files/ex_012.py) - _Prompting People w/ raw_input integration_
+13. [ex_013.py](ex_files/ex_013.py) - _Parameetrs, Unpacking, Variables - *from sys import argv*_
+14. [ex_014.py](ex_files/ex_014.py) - _Prompting and Passing_
+15. [ex_015.py](ex_files/ex_015.py) - _Reading Files_
+16. [ex_016.py](ex_files/ex_016.py) - _Reading and Writing Files_
+17. [ex_017.py](ex_files/ex_017.py) - _More Files_
+18. [ex_018.py](ex_files/ex_018.py) - _Names, Variables, Code, Functions_
+19. [ex_019.py](ex_files/ex_019.py) - _Functions and Variables_
+20. [ex_020.py](ex_files/ex_020.py) - _Functions and Files_

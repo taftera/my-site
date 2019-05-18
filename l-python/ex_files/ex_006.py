@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Strings and text
 
 x = "There are %d types of people." % 10
@@ -23,3 +24,6 @@ print w + e
 
 # %r is for debugging = RAW DATA.
 # %s & %d for displaying to users.
+=======
+I
+>>>>>>> office
