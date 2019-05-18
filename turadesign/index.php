@@ -1,6 +1,6 @@
 <?php
     $lang = substr($_SERVER['HTTP_ACCEPT_LANGUAGE'], 0, 2);
-    $acceptLang = ['en', 'es']; 
+    $acceptLang = ['en', 'es'];
     $lang = in_array($lang, $acceptLang) ? $lang : 'en';
 ?>
 
@@ -39,12 +39,12 @@
                     <div class="text-center col-12">
                         <h1 class="display-4">Alex Turati Schnaider</h1>
 
-                        <?php                
+                        <?php
     if ($lang == 'es') {
         echo '<p class="lead">Sitio en Remodelación</p>
         <p>Redes Sociales, Portafolio y/o Contacto.</p>';
     } else {
-        echo '<p class="lead">Site being Re-Designed</p>
+        echo '<p class="lead">Site is being Re-Designed</p>
         <p>Social Media, Portfolio & Contact</p>';
     }
 ?>
