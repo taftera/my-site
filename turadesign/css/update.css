@@ -1,0 +1,38 @@
+@charset "UTF-8";
+/* CSS Document */
+
+:root{
+    --white: #FFFFFF;
+    --grey: #595B5A;
+    --mid-grey: #ACADAC;
+    --mint-turquoise: #14C3A2;
+    --cristal-mint: #0DE5A8;
+    --mint-green: #7CF49A;
+    --tender-mint: #B8FD99;
+}
+
+body {
+	border:0;
+	margin:0;
+    padding:0;
+    font-family: 'Abel', sans-serif;
+	font-size:18px;
+    background: rgb(234,237,234);
+background: linear-gradient(135deg, rgba(234,237,234,1) 0%, rgba(172,173,172,1) 100%);
+}
+.vertical-center {
+  min-height: 100%;
+  min-height: 100vh;
+  align-items: center;
+}
+.no-padding {
+  padding-left: 0;
+  padding-right: 0;
+}
+.bg-mint {
+    background-color: var(--mint-turquoise);
+    color: var(--white);
+}
+
+.link-mint { color: var(--white); }
+.link-mint:hover { color: var(--tender-mint); }
