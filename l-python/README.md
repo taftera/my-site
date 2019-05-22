@@ -23,7 +23,7 @@
 20. [ex_020.py](ex_files/ex_020.py) - _Functions and Files_
 21. [ex_021.py](ex_files/ex_021.py) - _Functions Can Return Something_
 22. [ex_022.md](ex_files/ex_022.md) - _What do you know so far ? - *List of keywords & symbols*_ 
-23. [ex_023.py](ex_files/ex_023.py) - _Read Some Code - *Learn from the web*_
+23. [ex_023.md](ex_files/ex_023.md) - _Read Some Code - *Learn from the web*_
 24. [ex_024.py](ex_files/ex_024.py) - _More Practice - *Practice Everything*_
-25. [ex_025.py](ex_files/ex_025.py) - __
+25. [ex_025.py](ex_files/ex_025.py) - _Even More Practice - *Terminal > **python** command interaction*_
 26. [ex_02.py](ex_files/ex_02.py) - __
