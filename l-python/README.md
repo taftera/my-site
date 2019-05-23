@@ -26,4 +26,8 @@
 23. [ex_023.md](ex_files/ex_023.md) - _Read Some Code - *Learn from the web*_
 24. [ex_024.py](ex_files/ex_024.py) - _More Practice - *Practice Everything*_
 25. [ex_025.py](ex_files/ex_025.py) - _Even More Practice - *Terminal > **python** command interaction*_
+26. [ex_026.py](ex_files/ex_026.py) - _Congratulations, Take a Test - [Test File](https://learnpythonthehardway.org/book/exercise26.txt)_
 26. [ex_02.py](ex_files/ex_02.py) - __
+26. [ex_02.py](ex_files/ex_02.py) - __
+26. [ex_02.py](ex_files/ex_02.py) - __
+26. [ex_02.py](ex_files/ex_03.py) - __
