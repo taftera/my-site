@@ -1,4 +1,4 @@
-# How to control GitHub
+ # How to control GitHub
 
 Basically you gotta check whats left to upload by this commands:
 
@@ -6,7 +6,7 @@ Basically you gotta check whats left to upload by this commands:
 ## Create projects
 - **git init**
   - create "README.md"
-- **git remote add** *REMOTE-NAME* *URL*
+- **git remote add** *REMOTE-NAME* *URL > https://github.com/taftera/REMOTE-NAME*
 - **git push --set-upstream** *REMOTE-NAME* **master**
 > not sure if this works
 
@@ -31,6 +31,9 @@ Basically you gotta check whats left to upload by this commands:
   - to exclude a file from being tracked.
 
 Review the GitHub syntax format [link](https://help.github.com/en/articles/basic-writing-and-formatting-syntax)
+
+## Clone a project
+- **git clone --** *GitHub-project-URL*
 
 ## Git - Brackets Config
 [Practical Series . com](http://practicalseries.com/1002-vcs/index.html#js--000000)
