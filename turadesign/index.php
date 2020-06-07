@@ -15,16 +15,12 @@
     <meta name="author" content="">
     <link rel="icon" href="favicon.ico">
 
-    <title>Alex Turati</title>
+    <title>Alex Turati - Portafolio</title>
 
     <!-- Bootstrap core CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <!-- Font awesome -->
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
-    <!-- Fancy App v3 -->
-    <script src="//code.jquery.com/jquery-3.3.1.min.js"></script>
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
-    <script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
     <!-- GOOGLE FONT -->
     <link href="https://fonts.googleapis.com/css?family=Abel" rel="stylesheet">
     <!-- CUSTOM CSS -->
@@ -38,14 +34,12 @@
                 <div class="col-sm-6 col-md-7 col-lg-7 col-12 bg-* bg-mint d-flex align-items-center py-4">
                     <div class="text-center col-12">
                         <h1 class="display-4">Alex Turati Schnaider</h1>
-
+<!-- Editado desde SSH  -->
                         <?php
     if ($lang == 'es') {
-        echo '<p class="lead">Sitio en Remodelación</p>
-        <p>Redes Sociales, Portafolio y/o Contacto.</p>';
+        echo '<p>Redes Sociales, Portafolio y/o Contacto.</p>';
     } else {
-        echo '<p class="lead">Site is being Re-Designed</p>
-        <p>Social Media, Portfolio & Contact</p>';
+        echo '<p>Social Media, Portfolio & Contact</p>';
     }
 ?>
 
@@ -53,8 +47,9 @@
                             <a href="https://twitter.com/taftera" target="_blank" class="link-mint"><i class="fab fa-twitter mx-2"></i></a>
                             <a href="https://www.behance.net/taftera" target="_blank" class="link-mint"><i class="fab fa-behance mx-2"></i></a>
                             <a href="https://github.com/taftera/" target="_blank" class="link-mint"><i class="fab fa-github mx-2"></i></a>
-                            <a href="tel:+5215551044492" target="_blank" class="link-mint"><i class="fas fa-mobile-alt mx-2"></i></a>
+                            <a href="tel:+5215551044492" target="_blank" class="link-mint"><i class="fas fa-mobile mx-2"></i></a>
                             <a href="mailto:a.turati@gmail.com" class="link-mint"><i class="far fa-envelope mx-2"></i></a>
+                            <a href="https://api.whatsapp.com/send?phone=5215551044492" target="_blank" class="link-mint"><i class="fab fa-whatsapp mx-2"></i></a>
                         </p>
                     </div>
                 </div>
@@ -72,6 +67,14 @@
     </script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
-</body>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-15456473-2"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
 
+	  gtag('config', 'UA-15456473-2');
+	</script>
+	</body>
 </html>
