@@ -1,3 +1,0 @@
-linea 1
-line 2
-write(line1, "\n")
